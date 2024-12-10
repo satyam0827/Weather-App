@@ -16,4 +16,6 @@ Get weather button .
    ```bash
    git clone https://github.com/satyam0827/Weather-App.git
  
-  
+2. ```bash
+   cd your-repo
+
