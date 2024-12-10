@@ -24,3 +24,15 @@ Get weather button .
  ```bash
    cd client
 ```
+4. install all the dependencies
+ ```bash
+  npm install
+  ```
+5. After installing all the dependencies  set up your .env file
+   ```bash
+     VITE_APP_API_KEY = your_openweatherapp_api_key
+   ```
+6. Now your ready to run your application simply.
+   ```bash
+     npm run dev
+   ```
